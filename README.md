@@ -41,6 +41,6 @@
 ---
 
 **Summary:**
-- **Total PRs found:** 41
+- **Total PRs:** 42
 - **Pre-GSoC:** 5 PRs (3 merged, 1 closed, 1 draft closed)
-- **GSoC Midterm:** 36 PRs (32 merged, 1 closed, 3 open)
+- **GSoC Midterm:** 37 PRs (33 merged, 1 closed, 3 open)
