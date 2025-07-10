@@ -36,7 +36,7 @@
 - [#338](https://github.com/rust-lang/bors/pull/338) - "Add try build check run" (08/07/25)
 - [#340](https://github.com/rust-lang/bors/pull/340) - "Add doc comments to database model fields" (04/07/25)
 - [#349](https://github.com/rust-lang/bors/pull/349) - "Update check run on build cancelled" (09/07/25)
-- [#350](https://github.com/rust-lang/bors/pull/350) - "Merge queue skeleton" (Open)
+- [#350](https://github.com/rust-lang/bors/pull/350) - "Merge queue skeleton" (10/07/25)
 
 ---
 
